@@ -42,10 +42,10 @@ namespace ConsoleApp_Homework
 
             Console.WriteLine("4 eded verilib (a,b,c,d). bu ededlerin ilk ikisini cemleyib, son ikisinin hasilini tapmaq.  sonda ise cemi hasile bolmek. ve cavabi ekrana cap etmek ( cem / hasil)");
 
-            int d = 10;
-            int e = 5;
-            int f = 1;
-            int g = 5;
+            int a = 10;
+            int b = 5;
+            int c = 1;
+            int d = 5;
             
             int e = a + b;
             int f = c * d;
